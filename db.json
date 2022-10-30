@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Finish Nextjs course",
+      "day": "Monday, 31 October 2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Improve my css skills",
+      "day": "Tuesday, 1 November 2022",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Finish Frontend Course",
+      "day": "Friday, 4 September 2022",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
