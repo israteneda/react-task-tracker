@@ -1,0 +1,16 @@
+{
+    "Task": {
+        "text": {
+            "string": {}
+        },
+        "day": {
+            "string": {}
+        },
+        "reminder": {
+            "boolean": {}
+        },
+        "id": {
+            "int": {}
+        }
+    }
+}
