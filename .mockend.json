@@ -1,10 +1,18 @@
 {
     "Task": {
         "text": {
-            "string": {}
+            "string": [
+                "Create a new project",
+                "Improve the design of my site",
+                "Contribute to Open Source"
+            ]
         },
         "day": {
-            "string": {}
+            "string": [
+                "1 Jan 2023",
+                "1 February 2023",
+                "1 December 2022"
+            ]
         },
         "reminder": {
             "boolean": {}
@@ -12,7 +20,7 @@
         "id": {
             "int": {
                 "min": 1,
-                "max": 25
+                "max": 100
             }
         }
     }

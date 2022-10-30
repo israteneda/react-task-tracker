@@ -3,13 +3,13 @@
     {
       "text": "Finish Nextjs course",
       "day": "Monday, 31 October 2022",
-      "reminder": true,
+      "reminder": false,
       "id": 1
     },
     {
       "text": "Improve my css skills",
       "day": "Tuesday, 1 November 2022",
-      "reminder": true,
+      "reminder": false,
       "id": 2
     },
     {
